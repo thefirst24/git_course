@@ -3,9 +3,8 @@ import math
 import mysum
 
 def main():
-
+    print("welcome")
     while True:
-        
         # Выводим сообщение какие действия есть
         print("Выберите действие которое хотите сделать:\n"
               "Сложить: +\n"
